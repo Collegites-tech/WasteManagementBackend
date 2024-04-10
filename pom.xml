@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.waste.listing</groupId>
-	<artifactId>waste-listing-system-mysql</artifactId>
+	<artifactId>WasteManagementBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>waste-listing-system-mongodb</name>
-	<description>waste listing system mongodb</description>
+	<name>WasteManagementBackend</name>
+	<description>WasteManagementBackend</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
